@@ -1,0 +1,32 @@
+C:\Users\andy\Desktop\reporteador\translado\translado\bin\Debug\translado.exe.config
+C:\Users\andy\Desktop\reporteador\translado\translado\bin\Debug\translado.exe
+C:\Users\andy\Desktop\reporteador\translado\translado\bin\Debug\translado.pdb
+C:\Users\andy\Desktop\reporteador\translado\translado\obj\Debug\translado.csprojResolveAssemblyReference.cache
+C:\Users\andy\Desktop\reporteador\translado\translado\obj\Debug\translado.Form1.resources
+C:\Users\andy\Desktop\reporteador\translado\translado\obj\Debug\translado.Properties.Resources.resources
+C:\Users\andy\Desktop\reporteador\translado\translado\obj\Debug\translado.csproj.GenerateResource.Cache
+C:\Users\andy\Desktop\reporteador\translado\translado\obj\Debug\translado.exe
+C:\Users\andy\Desktop\reporteador\translado\translado\obj\Debug\translado.pdb
+C:\Users\andy\Desktop\Modulo\translado\translado\bin\Debug\translado.exe.config
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\translado.exe
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\translado.pdb
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\translado.Form1.resources
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\translado.Properties.Resources.resources
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\translado.csproj.GenerateResource.Cache
+C:\Users\andy\Desktop\Modulo\translado\translado\bin\Debug\translado.exe
+C:\Users\andy\Desktop\Modulo\translado\translado\bin\Debug\translado.pdb
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\translado.csprojResolveAssemblyReference.cache
+C:\Users\andy\Desktop\Modulo\translado\translado\obj\Debug\Mante_translado.Form2.resources
+F:\Modulo\translado\translado\bin\Debug\translado.exe.config
+F:\Modulo\translado\translado\obj\Debug\translado.exe
+F:\Modulo\translado\translado\obj\Debug\translado.pdb
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\bin\Debug\translado.exe.config
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\translado.exe
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\translado.pdb
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\bin\Debug\translado.exe
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\bin\Debug\translado.pdb
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\translado.Form1.resources
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\Mante_translado.Form2.resources
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\translado.Properties.Resources.resources
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\translado.csproj.GenerateResource.Cache
+C:\Users\andy\Desktop\Enlace de modulos con contabilidad\translado\translado\obj\Debug\translado.csprojResolveAssemblyReference.cache
